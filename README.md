@@ -1,6 +1,6 @@
 # Episode Counter
 
-This is a simple web app built with HTML, CSS, and JavaScript that allows you to count the number of episodes you have watched in a Anime series. The app stores the number of episodes you have watched.
+This is a simple web app built with HTML, CSS, and JavaScript that allows you to count the number of episodes you have watched in an Anime series. The app stores the number of episodes you have watched in your sessions.
 
 ## Demo
 
