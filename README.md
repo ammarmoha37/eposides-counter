@@ -4,7 +4,7 @@ This is a simple web app built with HTML, CSS, and JavaScript that allows you to
 
 ## Demo
 
-The app has been deployed online. You can try the app online at https://ammarmoha37.github.io/eposides-counter 
+The app has been deployed online. You can try the app online at [Eposide Counter](https://ammarmoha37.github.io/eposides-counter) 
 
 ## About
 
